@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6525565415384757732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3181746196781999122}
+  - component: {fileID: 5887087632201946821}
+  - component: {fileID: 3810373978161421515}
+  - component: {fileID: 3267247511081450269}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3181746196781999122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525565415384757732}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!20 &5887087632201946821
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525565415384757732}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 4.7409825
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 0
+  m_HDR: 1
+  m_AllowMSAA: 0
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 0
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!81 &3810373978161421515
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525565415384757732}
+  m_Enabled: 1
+--- !u!114 &3267247511081450269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525565415384757732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a736b5eccbbe1a94e9201a0c5da03d99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Dad: {fileID: 0}
+  Mom: {fileID: 0}
+  Boy: {fileID: 0}
+  Girl: {fileID: 0}
+  Boat: {fileID: 0}
+  GoButton: {fileID: 0}
+  WinPlayAgain: {fileID: 0}
+  WinMainMenuButton: {fileID: 0}
+  PauseContinue: {fileID: 0}
+  PauseMainMenuButton: {fileID: 0}
+  PauseRestart: {fileID: 0}
+  SoundOn: {fileID: 0}
+  SoundOff: {fileID: 0}
+  PauseButton: {fileID: 0}
+  StartLevel2Button: {fileID: 0}
+  DadRightSidePosition: {x: 3.52, y: 1.098, z: 0}
+  DadLeftSidePosition: {x: -3.52, y: 1.098, z: 0}
+  MomRightSidePosition: {x: 6.323, y: 1.154, z: 0}
+  MomLeftSidePosition: {x: -6.323, y: 1.154, z: 0}
+  BoyRightSidePosition: {x: 4.44, y: 0.69, z: 0}
+  BoyLeftSidePosition: {x: -4.44, y: 0.69, z: 0}
+  GirlRightSidePosition: {x: 5.341617, y: 0.774, z: 0}
+  GirlLeftSidePosition: {x: -5.341617, y: 0.774, z: 0}
+  BoatCarryBigRightSidePosition: {x: 1.13, y: 0.95, z: 0}
+  BoatCarryBigLeftSidePosition: {x: -1.13, y: 0.95, z: 0}
+  BoatCarryBoyRightSidePosition: {x: 0.7, y: 0.54, z: 0}
+  BoatCarryBoyLeftSidePosition: {x: -0.7, y: 0.54, z: 0}
+  BoatCarryGirlRightSidePosition: {x: 1.56, y: 0.56, z: 0}
+  BoatCarryGirlLeftSidePosition: {x: -1.56, y: 0.56, z: 0}
+  BoatRightSidePosition: {x: 1.182167, y: 0.1985318, z: 0}
+  BoatLeftSidePosition: {x: -1.182167, y: 0.1985318, z: 0}
+  WinState: {fileID: 0}
+  Pause: {fileID: 0}
+  HowToPlay: {fileID: 0}
+  Music: {fileID: 0}
+  ButtonClick: {fileID: 0}
+  JumpSound: {fileID: 0}
+  ONBoat: 
+  timerText: {fileID: 0}
+  nostar1: {fileID: 0}
+  nostar2: {fileID: 0}
+  nostar3: {fileID: 0}
+  star1: {fileID: 0}
+  star2: {fileID: 0}
+  star3: {fileID: 0}
+  starScore: 0
+  levelTime: 60
+  timeRemaining: 0
+  isTimerRunning: 1
