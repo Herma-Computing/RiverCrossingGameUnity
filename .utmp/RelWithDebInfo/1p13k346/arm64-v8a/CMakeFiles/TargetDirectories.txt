@@ -1,5 +1,0 @@
-/Users/macbookpro/Desktop/RiverCrossingGame/.utmp/RelWithDebInfo/1p13k346/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/macbookpro/Desktop/RiverCrossingGame/.utmp/RelWithDebInfo/1p13k346/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/macbookpro/Desktop/RiverCrossingGame/.utmp/RelWithDebInfo/1p13k346/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
-/Users/macbookpro/Desktop/RiverCrossingGame/.utmp/RelWithDebInfo/1p13k346/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
-/Users/macbookpro/Desktop/RiverCrossingGame/.utmp/RelWithDebInfo/1p13k346/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
