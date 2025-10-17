@@ -1,0 +1,104 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Mm]emoryCaptures/
+
+# ==================== #
+# Asset Meta Files     #
+# ==================== #
+# Uncomment this if you want to ignore all meta files
+# *.meta
+
+# ==================== #
+# Crash and Build Data #
+# ==================== #
+sysinfo.txt
+*.stacktrace
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# ==================== #
+# Unity Cloud build    #
+# ==================== #
+/[Uu]serSettings/
+
+# ==================== #
+# Rider / JetBrains IDE#
+# ==================== #
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# ==================== #
+# Visual Studio        #
+# ==================== #
+.vs/
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cachefile
+*.bak
+
+# ==================== #
+# Miscellaneous        #
+# ==================== #
+*.unitypackage
+*.apk
+*.aab
+*.app
+*.ipa
+*.xcuserstate
+*.xcworkspace/
+.DS_Store
+Thumbs.db
+
+# ==================== #
+# Build Artifacts      #
+# ==================== #
+[Bb]uild/
+[Bb]uilds/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+[Pp]ublish*/
+[Bb]inaries/
+
+# ==================== #
+# Addressables         #
+# ==================== #
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*
+!/Assets/AddressableAssetsData/*.asset
+!/Assets/AddressableAssetsData/AddressableAssetSettings.asset
+!/Assets/AddressableAssetsData/link.xml
+
+# ==================== #
+# Plastic SCM          #
+# ==================== #
+/[Ww]orkspace*/
+*.plastic/
+
+# ==================== #
+# Unity Package Manager #
+# ==================== #
+/[Pp]ackages/com.unity.package-manager*/
