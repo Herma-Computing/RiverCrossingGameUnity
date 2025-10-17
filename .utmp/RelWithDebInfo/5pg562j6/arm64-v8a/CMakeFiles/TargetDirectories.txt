@@ -1,5 +1,0 @@
-E:/revier1/.utmp/RelWithDebInfo/5pg562j6/arm64-v8a/CMakeFiles/edit_cache.dir
-E:/revier1/.utmp/RelWithDebInfo/5pg562j6/arm64-v8a/CMakeFiles/rebuild_cache.dir
-E:/revier1/.utmp/RelWithDebInfo/5pg562j6/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
-E:/revier1/.utmp/RelWithDebInfo/5pg562j6/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
-E:/revier1/.utmp/RelWithDebInfo/5pg562j6/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

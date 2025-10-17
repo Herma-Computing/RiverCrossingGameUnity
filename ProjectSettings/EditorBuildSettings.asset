@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
+    path: Assets/river crossing/Scenes/Main Menu.unity
     guid: a887a14f58373f2479b26eb64f3a489e
   - enabled: 1
-    path: Assets/Scenes/Environment_Free.unity
+    path: Assets/river crossing/Scenes/LEVEL 1.unity
     guid: c732593fe76e5a84197f9cd13963f706
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
-    guid: 92b9613a95f6dc440a9678e1f252e7d2
+    path: Assets/river crossing/Scenes/LEVEL 2.unity
+    guid: fd7bcffbafa859e4481aa9735474a088
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
