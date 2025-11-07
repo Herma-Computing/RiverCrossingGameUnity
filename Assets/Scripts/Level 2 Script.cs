@@ -31,6 +31,7 @@ public class Level2RiverController : MonoBehaviour
     public Button SoundOn;
     public Button SoundOff;
     public Button PauseButton;
+    public Button NextLevelButton;
     public Button StartLevel2Button;
 
     // Positions
@@ -93,6 +94,7 @@ public class Level2RiverController : MonoBehaviour
         SoundOff.onClick.AddListener(Soundoff);
         PauseContinue.onClick.AddListener(Continue);
         PauseButton.onClick.AddListener(PauseMenu);
+        NextLevelButton.onClick.AddListener(NextLevel);
         StartLevel2Button.onClick.AddListener(StartLevel2);
         timeRemaining = levelTime;
         UpdateTimerUI();
@@ -322,6 +324,12 @@ public class Level2RiverController : MonoBehaviour
     public void MainMenu()
     {
         SceneManager.LoadSceneAsync(0);
+        WinState.SetActive(false);
+        ButtonClick.Play();
+    }
+    public void NextLevel()
+    {
+        SceneManager.LoadSceneAsync(3);
         WinState.SetActive(false);
         ButtonClick.Play();
     }
