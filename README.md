@@ -82,19 +82,11 @@ For mobile builds, ensure you have the required platform modules installed in Un
   - Create a new prefab with animations and assign the appropriate tag or script (e.g., Couple.cs) if special logic applies.
   - Update level controllers to include the new character in rule checks.
 
-## Contribution
-
-Contributions, bug reports, and improvement suggestions are welcome.
-
-- To contribute: fork the repo, make changes on a feature branch, and open a pull request with a concise description of changes.
-- Please keep gameplay logic and UI changes separated and include screenshots or short notes describing the behavior change.
-Perfect — here’s a clean section you can add to your **README.md** under a new heading like **“🧭 Contribution Guide”** or **“Contributing”** 👇
-
 ---
 
 ## 🧭 Contribution Guide
 
-We welcome contributions to improve the River Crossing Game!
+We welcome contributions, bug reports, and improvement suggestions to improve the Game!
 
 ### 🔹 How to Contribute
 
