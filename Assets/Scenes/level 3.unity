@@ -5692,8 +5692,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Three Missionaries and three Cannibals must cross the river. The boat can
-    carry two people at a time. At least one person is needed to row.
+  m_text: "Three Gray shirt and three white shirt must cross the river. The boat
+    can carry two people at a time. Boat capacity = 2 people. At least one person
+    must be in the boat to move.\nIf, on either bank, Gray shirt outnumber white
+    shirt, the white shirt are eaten \u2192 player loses.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10748,8 +10750,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2130063505}
   m_HandleRect: {fileID: 2130063504}
   m_Direction: 2
-  m_Value: 1.0000865
-  m_Size: 0.9204309
+  m_Value: 1.0000062
+  m_Size: 0.45929855
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
