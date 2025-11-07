@@ -88,6 +88,46 @@ Contributions, bug reports, and improvement suggestions are welcome.
 
 - To contribute: fork the repo, make changes on a feature branch, and open a pull request with a concise description of changes.
 - Please keep gameplay logic and UI changes separated and include screenshots or short notes describing the behavior change.
+Perfect — here’s a clean section you can add to your **README.md** under a new heading like **“🧭 Contribution Guide”** or **“Contributing”** 👇
+
+---
+
+## 🧭 Contribution Guide
+
+We welcome contributions to improve the River Crossing Game!
+
+### 🔹 How to Contribute
+
+1. Check the [Issues](../../issues) page for open tasks or feature bounties.
+2. Comment on an issue to claim it before starting work.
+3. Fork the repo
+4. Clone from the forked to your own machine
+5. Create a feature branch:
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+6. Commit clean, modular code and push your branch.
+7. Submit a **Pull Request** referencing the issue number.
+   Example:
+
+   > Resolves #12
+
+---
+
+### 💰 Bounty System
+
+* Some issues include **ETB rewards** for completed features.
+* Rewards are given to the **first successfully merged pull request** meeting all acceptance criteria.
+* Be sure to review the **Acceptance Criteria** listed in the issue before starting.
+
+---
+
+### 🧩 Code Style
+
+* Follow Unity and C# best practices.
+* Keep code readable and modular.
+* Use meaningful commit messages and clear PR descriptions.
 
 ## Assets & Licensing
 
